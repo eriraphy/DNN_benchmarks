@@ -1,0 +1,125 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (daal_Convolutional2dLayer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  
+  Searching libraries
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_core.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_thread.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\compiler\lib\intel64_win\libiomp5md.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbb.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\libcpmt.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbbmalloc.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.10240.0\ucrt\x64\libucrt.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_core.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_thread.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\compiler\lib\intel64_win\libiomp5md.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbb.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\libcpmt.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbbmalloc.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.10240.0\ucrt\x64\libucrt.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_core.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_thread.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\compiler\lib\intel64_win\libiomp5md.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbb.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\libcpmt.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbbmalloc.lib:
+  
+  Finished searching libraries
+  Generating code
+  78 of 502 functions (15.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  
+  Searching libraries
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_core.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_thread.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\compiler\lib\intel64_win\libiomp5md.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbb.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\libcpmt.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbbmalloc.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.10240.0\ucrt\x64\libucrt.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_core.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\daal\lib\intel64_win\daal_thread.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\compiler\lib\intel64_win\libiomp5md.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbb.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\libcpmt.lib:
+      Searching C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2017.0.109\windows\tbb\lib\intel64_win\vc_mt\tbbmalloc.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\LIBCMT.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\amd64\libvcruntime.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.10240.0\ucrt\x64\libucrt.lib:
+  
+  Finished searching libraries
+  mklDNN.vcxproj -> C:\Users\Raphy\Desktop\C\DNN\daal_DNN\x64\Release\DAAL_test.exe
